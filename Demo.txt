@@ -1,0 +1,4 @@
+public void demo(){
+sop("This is a Demo Class");
+
+}
